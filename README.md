@@ -1,0 +1,1 @@
+# manual_cloud_deployment
