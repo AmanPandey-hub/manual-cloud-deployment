@@ -42,7 +42,7 @@ pip install flask
 Bash
 python3 app.py
 
-## Testing the Endpoints
+ Testing the Endpoints
 With the server running in a separate terminal window, you can verify the endpoints using curl:
 
 Test Home Route:
@@ -61,7 +61,7 @@ Expected Output:
 <img width="575" height="56" alt="image" src="https://github.com/user-attachments/assets/bfa7b376-69f3-43e5-bce4-60021d17cb04" />
 
 
-## Project structure
+ Project structure
 
 my-cloud-api/
 │
