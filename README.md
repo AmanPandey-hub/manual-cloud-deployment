@@ -24,7 +24,7 @@ A lightweight, production-ready Flask REST API designed for manual cloud deploym
 
 Follow these steps to set up and run the project locally on your machine.
 
-### 1. Clone the Repository
+1. Clone the Repository
 ```bash
 git clone [https://github.com/AmanPandey-hub/manual_cloud_deployment.git](https://github.com/AmanPandey-hub/manual_cloud_deployment.git)
 cd manual_cloud_deployment
